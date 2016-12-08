@@ -101,7 +101,7 @@
  
 ###技术参考
   * 个人博客： http://www.cnblogs.com/GerryOfZhong/
-  * Github库：  https://github.com/GerryIsWarrior
+  * Github库： https://github.com/Hapenny
   * 个人笔记：  http://url.cn/41fCV3d
   * 个人书签： https://gerryiswarrior.github.io/MyBookmarks/
  
